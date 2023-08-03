@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areejrazzaq
 - 👀 I’m interested in learning new technology stacks and architectural patterns. 
-- 🌱 I’m currently working with a start up as junior software developer. 
+- 🌱 I’m currently working with a start up as software developer. 
 - 📫 You can contact me @ areejrazzaq00@gmail.com
 
 <!---
