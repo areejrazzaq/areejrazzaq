@@ -6,7 +6,7 @@
 ---
 
 🔍 **About Me**  
-From curiosity to code — I started with “how do websites work?” and ended up leading AI-powered platforms and cloud-native systems. With 2+ years of experience, I blend backend logic with sleek UIs, and automate everything in between.
+From curiosity to code — I started with “how do websites work?” and ended up leading AI-powered platforms and cloud-native systems. With 3 years of professional experience, I blend backend logic with sleek UIs, and automate everything in between.
 
 🛠 PHP • JavaScript • SQL | Laravel • Angular | AWS • CI/CD  
 🤝 Clean Code • DevOps • Agile • Mentorship
