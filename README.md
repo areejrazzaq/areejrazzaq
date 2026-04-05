@@ -19,8 +19,7 @@ I build scalable software systems, AI-powered workflows, and production-grade pl
 - Designing AI agents, RAG pipelines, and async processing architectures
 - Comfortable across product engineering, cloud infrastructure, and system optimization
 - Interested in systems that operate at scale and solve meaningful problems
-
-From the provided resumes, your profile highlights **3+ years of experience** in scalable platforms, backend systems, and AI-powered applications.
+- **3+ years of experience** in scalable platforms, backend systems, and AI-powered applications.
 
 ---
 
@@ -44,68 +43,7 @@ Document indexing, chunking, embeddings, vector search, and Azure AI Search powe
 
 ### ☁️ Cloud-Native Applications
 Production deployments on AWS and Azure using Docker, CI/CD, object storage, and performance-focused infrastructure patterns. 
----
 
-## 📌 Featured Projects
-
-### 1. Conversational AI Platform
-**Type:** Multi-tenant AI SaaS  
-**Focus:** LLM workflows, vector retrieval, messaging automation
-
-Built an AI-powered communication platform integrating OpenAI and Pinecone to support RAG-based messaging across SMS, WhatsApp, and Email. Designed for scale, concurrency, and real-time orchestration. 
-**Outcome**
-- Automated **100k+ messages per day** 
-- Supported multi-channel real-time communication
-- Enabled scalable async execution using Redis and event-driven processing 
-
----
-
-### 2. Real Estate Lead Analyzer
-**Type:** AI CRM Agent  
-**Focus:** Lead qualification, async workflows, AI scoring
-
-Engineered an AI-powered CRM agent for real-time lead qualification and scoring using multi-step asynchronous workflows. 
-**Outcome**
-- Automated lead analysis in real time
-- Improved CRM workflow efficiency
-- Created a reusable pattern for AI-driven operational workflows
-
----
-
-### 3. Healthcare AI Assistant
-**Type:** Domain-Specific AI Assistant  
-**Focus:** Azure AI Search, document retrieval, healthcare assistance
-
-Built a healthcare-focused assistant using Azure AI Search and vector storage to retrieve service and patient documentation in real time. 
-**Outcome**
-- Delivered faster access to relevant internal information
-- Improved retrieval quality for unstructured documents
-- Contributed to **60% faster internal resolution time** through chunking and retrieval improvements
-
----
-
-### 4. ApnaWifi Platform Modernization
-**Type:** Backend Modernization  
-**Focus:** Laravel refactor, dashboards, deployment automation
-
-Refactored a legacy monolithic PHP codebase into modular Laravel services and built dashboards plus high-reliability APIs for Wi-Fi automation. 
-**Outcome**
-- Improved operational efficiency by **20%** 
-- Reduced production issues by **15%** through automated deployment pipelines 
-- Strengthened maintainability and future scalability
-
----
-
-### 5. Test Suite Optimization Research
-**Type:** Performance Engineering  
-**Focus:** Test reduction algorithms, release acceleration
-
-Implemented advanced test-suite reduction algorithms in JavaScript and analyzed performance metrics to identify bottlenecks.
-
-**Outcome**
-- Reduced long execution cycles
-- Improved testing efficiency
-- Accelerated release readiness and reliability
 ---
 
 ## 🛠 Tech Stack
@@ -125,14 +63,8 @@ Implemented advanced test-suite reduction algorithms in JavaScript and analyzed 
 ### Databases
 `MySQL` `SQL Server` `Redis`
 
-These stacks are directly reflected in the attached resumes.
 ---
 
-## 🧩 Architecture Mindset
-
-```text
-Client → API Layer → Async Queue → AI Processing → Vector Search / Storage → Response Layer
-```
 ## 🔗 Connect & Explore
 
 <p align="left">
